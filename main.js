@@ -50,7 +50,7 @@ else if(p==='rock'){
     }
   }
   else if(p==='scissors'){
-    if(c===rock){
+    if(c==='rock'){
       return 'computer';
     }
     else{
